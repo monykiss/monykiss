@@ -17,6 +17,37 @@ San Juan, Puerto Rico
 I work at the intersection of applied AI, product systems, and decision support.
 Most of what I build is aimed at one thing: turning noisy workflows into operator-grade software that makes the next move clearer.
 
+<details>
+  <summary><strong>Open Portfolio Map</strong></summary>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td><strong>Operations</strong></td>
+      <td><code>FORGE</code>, <code>BIMBA</code>, <code>APEX</code></td>
+    </tr>
+    <tr>
+      <td><strong>Infrastructure</strong></td>
+      <td><code>gridops</code>, <code>WORLDVIEW</code></td>
+    </tr>
+    <tr>
+      <td><strong>Financial Systems</strong></td>
+      <td><code>cerniq</code></td>
+    </tr>
+    <tr>
+      <td><strong>Healthcare AI</strong></td>
+      <td><code>medagentos</code></td>
+    </tr>
+    <tr>
+      <td><strong>Consumer / Commerce</strong></td>
+      <td><code>bimbas</code>, <code>door-configurator</code></td>
+    </tr>
+  </table>
+
+  <p>This portfolio is organized around operator software, vertical AI, and high-context decision systems.</p>
+</details>
+
 ## What I Build
 
 - AI-powered platforms for analysis, forecasting, and operational decision support
