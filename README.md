@@ -23,22 +23,34 @@ Most of what I build is aimed at one thing: turning noisy workflows into operato
 - Full-stack systems with strong backend logic, clean product surfaces, and measurable utility
 - Tools that combine automation, intelligence, and real-world workflow design
 
-## Selected Work
+## Currently Highlighted Work
 
-- [housev2](https://github.com/monykiss/housev2)  
-  Full-stack ML housing price prediction app with a FastAPI backend, React/Vite frontend, Dockerized deployment, and AWS-ready architecture.
+- `FORGE` `private`  
+  Enterprise manufacturing operations platform for production visibility, execution, and systems coordination.
 
-- [coach-performance-platform-](https://github.com/monykiss/coach-performance-platform-)  
-  AI-powered sports performance platform focused on video analysis, drill recommendations, and session planning.
+- `gridops` `private`  
+  Intelligence and assurance layer for high-scrutiny electric systems, with a Puerto Rico infrastructure focus.
 
-- [gemini-firebase-doc-analyzer](https://github.com/monykiss/gemini-firebase-doc-analyzer)  
-  Production-grade document intelligence platform using Gemini + Firebase, designed around clean architecture and deployment discipline.
+- `APEX` `private`  
+  Enterprise-style autonomous FX trading command center built around operator workflows, market intelligence, and execution surfaces.
 
-- [intelligence-cre-pipeline](https://github.com/monykiss/intelligence-cre-pipeline)  
-  Commercial real estate intelligence pipeline with stage gates, deduplication, and automation inside Google Sheets workflows.
+- `cerniq` `private`  
+  Intelligent ALM reporting platform for Puerto Rico financial institutions.
 
-- [workforce-reskilling-platform](https://github.com/monykiss/workforce-reskilling-platform)  
-  AI-driven workforce stability platform aimed at high-impact public policy and reskilling outcomes.
+- `BIMBA` `private`  
+  Enterprise mission and operations stack designed for coordinated multi-system execution.
+
+- `bimbas` `private`  
+  Trend intelligence platform for creators focused on identifying what is moving before it peaks.
+
+- `WORLDVIEW` `private`  
+  Enterprise geospatial intelligence platform built for high-context operational analysis.
+
+- `medagentos` `private`  
+  AI-native multi-agent operating system for healthcare practice operations.
+
+- `door-configurator` `private`  
+  DoorCraft, a 3D door configurator paired with an AI design advisor.
 
 ## Signal
 
