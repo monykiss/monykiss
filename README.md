@@ -56,12 +56,6 @@ Most of what I build is aimed at one thing: turning noisy workflows into operato
 
 ## Currently Highlighted Work
 
-- `FORGE` `private`  
-  Enterprise manufacturing operations platform for production visibility, execution, and systems coordination.
-
-- `gridops` `private`  
-  Intelligence and assurance layer for high-scrutiny electric systems, with a Puerto Rico infrastructure focus.
-
 - `APEX` `private`  
   Enterprise-style autonomous FX trading command center built around operator workflows, market intelligence, and execution surfaces.
 
@@ -70,9 +64,6 @@ Most of what I build is aimed at one thing: turning noisy workflows into operato
 
 - `BIMBA` `private`  
   Enterprise mission and operations stack designed for coordinated multi-system execution.
-
-- `bimbas` `private`  
-  Trend intelligence platform for creators focused on identifying what is moving before it peaks.
 
 - `WORLDVIEW` `private`  
   Enterprise geospatial intelligence platform built for high-context operational analysis.
