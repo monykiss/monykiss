@@ -56,12 +56,6 @@ Most of what I build is aimed at one thing: turning noisy workflows into operato
 
 ## Currently Highlighted Work
 
-- `APEX` `private`  
-  Enterprise-style autonomous FX trading command center built around operator workflows, market intelligence, and execution surfaces.
-
-- `cerniq` `private`  
-  Intelligent ALM reporting platform for Puerto Rico financial institutions.
-
 - `BIMBA` `private`  
   Enterprise mission and operations stack designed for coordinated multi-system execution.
 
